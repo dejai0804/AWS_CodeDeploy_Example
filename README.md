@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AWS_CodeDeploy_Example
 <br />
 Please make sure that you add the following files to your project for this to work
@@ -100,3 +101,6 @@ CodeDeploy & EC2CodeDeploy
    &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;     service codedeploy-agent status
 
    
+=======
+# AWS_CodeDeploy_Example
+>>>>>>> 24c3d3635f10eae4ce0be4a8957b8843ecf51012
